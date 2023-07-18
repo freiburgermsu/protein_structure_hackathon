@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+
+
+# too large files
+unique_patricIDs.tsv
+UniProt_mappings.json
+pgf_matrix_covariance.npy
+covariance.png
